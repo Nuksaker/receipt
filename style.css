@@ -1,0 +1,120 @@
+* {
+  margin: 0;
+  padding: 0;
+  
+}
+
+body{
+    display: block;
+}
+.table-1{
+    float: left;
+    padding-left: 50px;
+}
+.table-2{
+    float: right;
+    padding-right: 50px;
+}
+
+table{
+    font-family: "Segoe UI", "TH SarabunPSK";
+}
+.tg {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+.tg td {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+.tg th {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+.tg .tg-oe15 {
+  background-color: #ffffff;
+  border-color: #ffffff;
+  text-align: left;
+  vertical-align: top;
+}
+.tg .tg-gczw {
+  background-color: #ffffff;
+  border-color: #000000;
+  text-align: right;
+  vertical-align: top;
+}
+.tg .tg-wk8r {
+  background-color: #ffffff;
+  border-color: #ffffff;
+  text-align: center;
+  vertical-align: top;
+}
+.tg .tg-9qp4 {
+  background-color: #ffffff;
+  border-color: #ffffff;
+  position: -webkit-sticky;
+  position: sticky;
+  text-align: center;
+  top: -1px;
+  vertical-align: top;
+  will-change: transform;
+}
+.tg .tg-b0es {
+  background-color: #ffffff;
+  border-color: #ffffff;
+  font-weight: bold;
+  text-align: center;
+  vertical-align: top;
+}
+.tg .tg-c1kk {
+  background-color: #ffffff;
+  border-color: #ffffff;
+  text-align: right;
+  vertical-align: top;
+}
+.tg .tg-jbyd {
+  background-color: #ffffff;
+  border-color: #000000;
+  text-align: center;
+  vertical-align: top;
+}
+.tg .tg-iks7 {
+  background-color: #ffffff;
+  border-color: #000000;
+  text-align: left;
+  vertical-align: top;
+}
+.tg .tg-cscf {
+  background-color: #c0c0c0;
+  border-color: #000000;
+  font-weight: bold;
+  text-align: left;
+  vertical-align: top;
+}
+.tg .tg-mums {
+  background-color: #ffffff;
+  border-color: #000000;
+  font-weight: bold;
+  text-align: center;
+  vertical-align: top;
+}
+tr {
+  height: 30px;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
